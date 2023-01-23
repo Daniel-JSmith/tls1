@@ -13,6 +13,10 @@ A CPU rasterizer written in C++.
   * Cook-Torrance BRDF
 * texture mapping
 
+# sample render
+
+![image](examples/example.png)
+
 # motivation
 
 This is a learning project. I wanted to study rendering fundamentals and to get some experience optimizing.
